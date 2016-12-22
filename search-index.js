@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["tokio_minihttp"] = {"doc":"","items":[[3,"Request","tokio_minihttp","",null,null],[3,"Response","","",null,null],[3,"Http","","",null,null],[3,"HttpCodec","","",null,null],[11,"method","","",0,null],[11,"path","","",0,null],[11,"version","","",0,null],[11,"headers","","",0,null],[11,"fmt","","",0,null],[11,"new","","",1,{"inputs":[],"output":{"name":"response"}}],[11,"status_code","","",1,null],[11,"header","","",1,null],[11,"body","","",1,null],[11,"bind_transport","","",2,null],[11,"decode","","",3,null],[11,"encode","","",3,null]],"paths":[[3,"Request"],[3,"Response"],[3,"Http"],[3,"HttpCodec"]]};
+initSearch(searchIndex);
